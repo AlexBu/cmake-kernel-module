@@ -1,3 +1,8 @@
+Imported from:
+https://gitlab.com/christophacham/cmake-kernel-module
+
+
+
 A simple hello world kernel module, that can be build with cmake.
 Utilize Kbuild through cmake, and do it in a build directory.
 
